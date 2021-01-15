@@ -11,4 +11,5 @@ Notes:
 1. Do not interact with browser after running control.py
 2. Find chromedrivers for your browser version, you can check your browser version in settings, in this repo I have attached driver for version 87
 3. This schedules meetings using your local machine time, so make sure your date and time settings are set correctly
-4. This is for education purposes only.  
+4. Make sure you install dependencies mentioned in requiements.txt
+5. This is for educational purposes only.
